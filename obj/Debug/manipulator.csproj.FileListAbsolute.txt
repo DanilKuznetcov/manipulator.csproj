@@ -1,0 +1,11 @@
+C:\Users\Spirit\Documents\Обучение\ulearnme\Practize\manipulator.csproj\bin\Debug\Manipulator.exe.config
+C:\Users\Spirit\Documents\Обучение\ulearnme\Practize\manipulator.csproj\bin\Debug\Manipulator.exe
+C:\Users\Spirit\Documents\Обучение\ulearnme\Practize\manipulator.csproj\bin\Debug\Manipulator.pdb
+C:\Users\Spirit\Documents\Обучение\ulearnme\Practize\manipulator.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Spirit\Documents\Обучение\ulearnme\Practize\manipulator.csproj\obj\Debug\manipulator.csprojAssemblyReference.cache
+C:\Users\Spirit\Documents\Обучение\ulearnme\Practize\manipulator.csproj\obj\Debug\Manipulation.Properties.Resources.resources
+C:\Users\Spirit\Documents\Обучение\ulearnme\Practize\manipulator.csproj\obj\Debug\manipulator.csproj.GenerateResource.cache
+C:\Users\Spirit\Documents\Обучение\ulearnme\Practize\manipulator.csproj\obj\Debug\manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Spirit\Documents\Обучение\ulearnme\Practize\manipulator.csproj\obj\Debug\manipulator.csproj.CopyComplete
+C:\Users\Spirit\Documents\Обучение\ulearnme\Practize\manipulator.csproj\obj\Debug\Manipulator.exe
+C:\Users\Spirit\Documents\Обучение\ulearnme\Practize\manipulator.csproj\obj\Debug\Manipulator.pdb
